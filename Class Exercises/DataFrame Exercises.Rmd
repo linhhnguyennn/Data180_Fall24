@@ -25,6 +25,8 @@ Create a data frame named `students` with the following columns:
 
 # Exercise 1: Create the data frame
 ```{r}
+x <- 1
+
 
 ```
 
